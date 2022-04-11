@@ -1,6 +1,6 @@
 export default function SearchIcon() {
   return (
-    <svg className="Icon Icon--search" role="presentation" viewBox="0 0 18 17">
+    <svg className="w-5 h-5" role="presentation" viewBox="0 0 18 17">
       <g
         transform="translate(1 1)"
         stroke="currentColor"
